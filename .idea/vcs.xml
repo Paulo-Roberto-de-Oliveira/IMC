@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculadora-massa-corporal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MLRegistro" vcs="Git" />
   </component>
 </project>
